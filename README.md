@@ -25,8 +25,12 @@ Guardar Producto Favorito en localStorage
 // Guardar un producto Favorito
 saveFavoriteProduct("MacBook Pro");
 ```
+![image](https://github.com/user-attachments/assets/5cf26be5-754c-49c4-9f39-c0274e539a90)
+![image](https://github.com/user-attachments/assets/db1941e4-9887-4979-88f5-3bc3e31ba1d6)
 
 ```javascript
 // Mostrar el producto favorito guardado en localStorage
 getFavoriteProduct();
 ```
+![image](https://github.com/user-attachments/assets/54bbef0a-362c-481a-b953-7c45ca76a0b6)
+
